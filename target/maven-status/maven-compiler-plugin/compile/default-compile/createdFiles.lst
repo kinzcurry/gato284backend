@@ -1,0 +1,4 @@
+org\acme\ExampleResource.class
+org\acme\endpoint\ProductsEndPoint.class
+org\acme\entity\Products.class
+org\acme\dao\ProductsDao.class
