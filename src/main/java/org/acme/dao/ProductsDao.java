@@ -29,7 +29,7 @@ public class ProductsDao {
 	public Products findProductById (Long id) {
 		Products product = em.find(Products.class, id);
 		if(product == null) {
-			System.out.println("Usuário Não encontrado");
+			System.out.println("Produto Não encontrado");
 		}
 		return product;
 	}

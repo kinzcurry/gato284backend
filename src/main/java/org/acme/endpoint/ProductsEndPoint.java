@@ -42,7 +42,8 @@ public class ProductsEndPoint {
 	}
 	
 	@PUT
-	public Response update(@QueryParam("id") Long productId,Products product) {
+	public Response update(@QueryParam("id") Long productId, Products product) {
+		System.out.println(product.getName());
 		String name = product.getName();
 		String impName = product.getImpName();
 		Long category = product.getCategoryId();

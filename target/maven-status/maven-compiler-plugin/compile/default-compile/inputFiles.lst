@@ -1,7 +1,4 @@
 C:\eclipse-workspace\gato284backend\src\main\java\org\acme\ExampleResource.java
-C:\eclipse-workspace\gato284backend\src\main\java\org\acme\security\keycloak\AdminDao.java
-C:\eclipse-workspace\gato284backend\src\main\java\org\acme\security\keycloak\UsersDao.java
 C:\eclipse-workspace\gato284backend\src\main\java\org\acme\endpoint\ProductsEndPoint.java
 C:\eclipse-workspace\gato284backend\src\main\java\org\acme\entity\Products.java
-C:\eclipse-workspace\gato284backend\src\main\java\org\acme\entity\User.java
 C:\eclipse-workspace\gato284backend\src\main\java\org\acme\dao\ProductsDao.java
