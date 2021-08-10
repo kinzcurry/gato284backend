@@ -28,7 +28,7 @@ public class CategoryEndPoint {
 	}
 	
 	@POST
-	public Response create(Category category) {
+	public Response create(Category category) {;
 		cd.createCategory(category);
 		return Response.status(201).build();
 	}
